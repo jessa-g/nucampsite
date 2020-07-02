@@ -1,0 +1,44 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Playfair Display SC", serif;
+}
+
+h2 {
+    color: #387355;
+}
+
+header h2 {
+    color: white;
+}
+
+.site-footer {
+    background-image: linear-gradient(#A0BF95, white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #A0BF95, #6E8E75, #586A61);
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+.navbar {
+    background-color: #4F574E;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #4F574E;
+}
